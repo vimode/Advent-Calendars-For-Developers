@@ -84,6 +84,19 @@ Feel free make a Pull Request to add Advent Calendars which you think would be h
 				</details>
 			</td>
 		</tr>
+    <tr>
+			<td>
+				<a href="https://typehero.dev/">Advent of TypeScript</a>
+			</td>
+			<td>TypeScript Challenges.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+				<details>
+					<summary>Previous years</summary>
+				</details>
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href="https://tryhackme.com/r/christmas">Advent of Cyber 2023</a>
