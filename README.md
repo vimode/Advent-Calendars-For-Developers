@@ -121,7 +121,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>-</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://tryhackme.com/room/adventofcyber4">2022</a>
+          <a href="https://tryhackme.com/room/adventofcyber3">2021</a>
+          <a href="https://tryhackme.com/room/adventofcyber2">2020</a>
+          <a href="https://tryhackme.com/room/25daysofchristmas">2019</a>
+        </details>
+      </td>
 		</tr>
     <tr>
 			<td><a href="https://github.com/fermyon/advent-of-spin">Fermyon Advent of Spin</a></td>
