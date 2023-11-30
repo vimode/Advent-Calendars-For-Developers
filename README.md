@@ -22,9 +22,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
   </thead>
   <tbody>
     <tr>
-      <td>
-	  		<a href="https://adventofcode.com/2023">Advent of Code</a>
-	  	</td>
+      <td><a href="https://adventofcode.com/2023">Advent of Code</a></td>
       <td>Programming Puzzles for variety skill sets and skill levels that can be solved in any programming language you like.</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
@@ -42,10 +40,22 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
+    <tr>
+      <td><a href="https://blog.jetbrains.com/kotlin/2023/11/advent-of-code-2023-with-kotlin/">Advent of Code 2023 with Kotlin</a></td>
+      <td>Solve Advent of Code challenges using Kotlin and win prizes.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://luna-park.app/advent">Advent of Code with NoCode</a></td>
+      <td>Solve Advent of Code challenges using NoCode - visual scripting on this playground.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>-</td>
+    </tr>
 		<tr>
-			<td>
-				<a href="https://adventofcss.com/">Advent of CSS</a>
-			</td>
+			<td><a href="https://adventofcss.com/">Advent of CSS</a></td>
 			<td>24 CSS Challenges, each challenge includes a Figma file, a style guide, a brief and steps to get you started.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
@@ -86,43 +96,44 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			</td>
 		</tr>
     <tr>
-			<td>
-				<a href="https://scrimba.com/learn/javascriptmas">Javascriptmas</a>
-			</td>
+			<td><a href="https://scrimba.com/learn/javascriptmas">Javascriptmas</a></td>
 			<td>24 JavaScript Challenges, share your solutions on X(Twitter) to enter a draw to win a Macbook Air M2.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-			</td>
+			<td>-</td>
 		</tr>
     <tr>
-			<td>
-				<a href="https://typehero.dev/">Advent of TypeScript</a>
-			</td>
+			<td><a href="https://typehero.dev/">Advent of TypeScript</a></td>
 			<td>TypeScript Challenges.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-			</td>
+			<td>-</td>
 		</tr>
+    <tr>
+      <td><a href="https://adventofgenai.com/">Advent of GenAI Hackathon</a></td>
+      <td>5 days of GenAI challenges – with each new challenge released daily.</td>
+      <td>5th Dec</td>
+      <td>11th Dec</td>
+      <td>-</td>
+		</tr>  
 		<tr>
-			<td>
-				<a href="https://tryhackme.com/r/christmas">Advent of Cyber 2023</a>
-			</td>
+			<td><a href="https://tryhackme.com/r/christmas">Advent of Cyber 2023</a></td>
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
+			<td>-</td>
+		</tr>
+    <tr>
+			<td><a href="https://github.com/fermyon/advent-of-spin">Fermyon Advent of Spin</a></td>
+			<td>Write and deploy Spin applications every week. Spin is an open-source framework for building and running serverless applications powered by WebAssembly</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
 			<td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-			</td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
+        </details>
+      </td>
 		</tr>
 		<tr>
 			<td>
@@ -131,11 +142,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>24 Programming tasks, enter the correct answer to participate in a draw to win.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>
@@ -145,11 +152,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 	</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-			</td>
+			<td>-</td>
 		</tr>
   </tbody>
 </table>
@@ -189,11 +192,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>Learn various new technologies everyday with videos from the community.</td>
       <td>1st Dec</td>
       <td>31st Dec</td>
-      <td>
-				<details>
-					<summary>Previous years</summary>
-				</details>
-	  	</td>
+      <td>-</td>
     </tr>
 		<tr>
       <td>
