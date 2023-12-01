@@ -206,8 +206,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 	  		<a href="https://www.bekk.christmas/post/2023">BekkChristmas</a>
 	  	</td>
-      <td>Learn from the Bekk team which includes developers, designers, project managers, agile coaches, and more.
-</td>
+      <td>Learn from the over 100 articles from Bekk engineers, designers, strategists, product owners and team leads.</td>
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>
