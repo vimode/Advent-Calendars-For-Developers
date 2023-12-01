@@ -103,7 +103,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>-</td>
 		</tr>
     <tr>
-			<td><a href="https://typehero.dev/">Advent of TypeScript</a></td>
+			<td><a href="https://typehero.dev/aot-2023">Advent of TypeScript</a></td>
 			<td>TypeScript Challenges.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
