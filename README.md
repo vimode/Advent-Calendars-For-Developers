@@ -380,7 +380,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
-				<tr>
+		<tr>
       <td>
 	  		<a href="https://www.javaadvent.com/calendar/">Java Advent Calendar 2023</a>
 	  	</td>
@@ -391,6 +391,23 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				<details>
 					<summary>Previous years</summary>
 					<a href="https://www.javaadvent.com/archive">2022-2012</a>
+				</details>
+	  	</td>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://raku-advent.blog/category/2023/">Raku(Perl 6) Advent Calendar 2023</a>
+	  	</td>
+      <td>One article on Raku per day, until Christmas.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+				<details>
+					<summary>Previous years</summary>
+					<a href="https://raku-advent.blog/category/2022/">2022</a>
+					<a href="https://raku-advent.blog/category/2021/">2021</a>
+					<a href="https://raku-advent.blog/category/2020/">2020</a>
+					<a href="https://raku-advent.blog/category/2019/">2019</a>
 				</details>
 	  	</td>
     </tr>
