@@ -29,14 +29,14 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://adventofcode.com/2022">2022</a></br>
-					<a href="https://adventofcode.com/2021">2021</a></br>
-					<a href="https://adventofcode.com/2020">2020</a></br>
-					<a href="https://adventofcode.com/2019">2019</a></br>
-					<a href="https://adventofcode.com/2018">2018</a></br>
-					<a href="https://adventofcode.com/2017">2017</a></br>
-					<a href="https://adventofcode.com/2016">2016</a></br>
-					<a href="https://adventofcode.com/2015">2015</a></br>
+					<a href="https://adventofcode.com/2022">2022</a> 
+					<a href="https://adventofcode.com/2021">2021</a> 
+					<a href="https://adventofcode.com/2020">2020</a> 
+					<a href="https://adventofcode.com/2019">2019</a> 
+					<a href="https://adventofcode.com/2018">2018</a> 
+					<a href="https://adventofcode.com/2017">2017</a> 
+					<a href="https://adventofcode.com/2016">2016</a> 
+					<a href="https://adventofcode.com/2015">2015</a> 
 				</details>
 	  	</td>
     </tr>
@@ -62,7 +62,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<details>
 				<summary>Previous years</summary>
-				<a href="https://2021.adevntofcss.com">2021</a></br>
+				<a href="https://2021.adevntofcss.com">2021</a> 
 			</details>
 			</td>
 		</tr>
@@ -76,7 +76,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://2021.adevntofjs.com">2021</a></br>
+					<a href="https://2021.adevntofjs.com">2021</a> 
 				</details>
 			</td>
 		</tr>
@@ -90,8 +90,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://2022.adventjs.dev/">2022</a></br>
-					<a href="https://2021.adventjs.dev/">2021</a></br>
+					<a href="https://2022.adventjs.dev/">2022</a> 
+					<a href="https://2021.adventjs.dev/">2021</a> 
 				</details>
 			</td>
 		</tr>
@@ -188,8 +188,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://www.htmhell.dev/adventcalendar/2022/">2022</a></br>
-					<a href="https://www.htmhell.dev/adventcalendar/2021/">2021</a></br>
+					<a href="https://www.htmhell.dev/adventcalendar/2022/">2022</a> 
+					<a href="https://www.htmhell.dev/adventcalendar/2021/">2021</a> 
 				</details>
 	  	</td>
     </tr>
@@ -212,12 +212,12 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://www.bekk.christmas/post/2022">2022</a></br>
-					<a href="https://www.bekk.christmas/post/2021">2021</a></br>
-					<a href="https://www.bekk.christmas/post/2020">2020</a></br>
-					<a href="https://www.bekk.christmas/post/2019">2019</a></br>
-					<a href="https://www.bekk.christmas/post/2018">2018</a></br>
-					<a href="https://www.bekk.christmas/post/2017">2017</a></br>
+					<a href="https://www.bekk.christmas/post/2022">2022</a> 
+					<a href="https://www.bekk.christmas/post/2021">2021</a> 
+					<a href="https://www.bekk.christmas/post/2020">2020</a> 
+					<a href="https://www.bekk.christmas/post/2019">2019</a> 
+					<a href="https://www.bekk.christmas/post/2018">2018</a> 
+					<a href="https://www.bekk.christmas/post/2017">2017</a> 
 				</details>
 	  	</td>
     </tr>
@@ -231,17 +231,17 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://www.24joursdeweb.fr/2022">2022</a></br>
-					<a href="https://www.24joursdeweb.fr/2021">2021</a></br>
-					<a href="https://www.24joursdeweb.fr/2020">2020</a></br>
-					<a href="https://www.24joursdeweb.fr/2019">2019</a></br>
-					<a href="https://www.24joursdeweb.fr/2018">2018</a></br>
-					<a href="https://www.24joursdeweb.fr/2017">2017</a></br>
-					<a href="https://www.24joursdeweb.fr/2016">2016</a></br>
-					<a href="https://www.24joursdeweb.fr/2015">2015</a></br>
-					<a href="https://www.24joursdeweb.fr/2014">2014</a></br>
-					<a href="https://www.24joursdeweb.fr/2013">2013</a></br>
-					<a href="https://www.24joursdeweb.fr/2012">2012</a></br>
+					<a href="https://www.24joursdeweb.fr/2022">2022</a> 
+					<a href="https://www.24joursdeweb.fr/2021">2021</a> 
+					<a href="https://www.24joursdeweb.fr/2020">2020</a> 
+					<a href="https://www.24joursdeweb.fr/2019">2019</a> 
+					<a href="https://www.24joursdeweb.fr/2018">2018</a> 
+					<a href="https://www.24joursdeweb.fr/2017">2017</a> 
+					<a href="https://www.24joursdeweb.fr/2016">2016</a> 
+					<a href="https://www.24joursdeweb.fr/2015">2015</a> 
+					<a href="https://www.24joursdeweb.fr/2014">2014</a> 
+					<a href="https://www.24joursdeweb.fr/2013">2013</a> 
+					<a href="https://www.24joursdeweb.fr/2012">2012</a> 
 				</details>
 	  	</td>
     </tr>		
@@ -255,20 +255,20 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://calendar.perfplanet.com/2022/">2022</a></br>
-					<a href="https://calendar.perfplanet.com/2021/">2021</a></br>
-					<a href="https://calendar.perfplanet.com/2020/">2020</a></br>
-					<a href="https://calendar.perfplanet.com/2019/">2019</a></br>
-					<a href="https://calendar.perfplanet.com/2018/">2018</a></br>
-					<a href="https://calendar.perfplanet.com/2017/">2017</a></br>
-					<a href="https://calendar.perfplanet.com/2016/">2016</a></br>
-					<a href="https://calendar.perfplanet.com/2015/">2015</a></br>
-					<a href="https://calendar.perfplanet.com/2014/">2014</a></br>
-					<a href="https://calendar.perfplanet.com/2013/">2013</a></br>
-					<a href="https://calendar.perfplanet.com/2012/">2012</a></br>
-					<a href="https://calendar.perfplanet.com/2011/">2011</a></br>
-					<a href="https://calendar.perfplanet.com/2010/">2010</a></br>
-					<a href="https://calendar.perfplanet.com/2009/">2009</a></br>
+					<a href="https://calendar.perfplanet.com/2022/">2022</a> 
+					<a href="https://calendar.perfplanet.com/2021/">2021</a> 
+					<a href="https://calendar.perfplanet.com/2020/">2020</a> 
+					<a href="https://calendar.perfplanet.com/2019/">2019</a> 
+					<a href="https://calendar.perfplanet.com/2018/">2018</a> 
+					<a href="https://calendar.perfplanet.com/2017/">2017</a> 
+					<a href="https://calendar.perfplanet.com/2016/">2016</a> 
+					<a href="https://calendar.perfplanet.com/2015/">2015</a> 
+					<a href="https://calendar.perfplanet.com/2014/">2014</a> 
+					<a href="https://calendar.perfplanet.com/2013/">2013</a> 
+					<a href="https://calendar.perfplanet.com/2012/">2012</a> 
+					<a href="https://calendar.perfplanet.com/2011/">2011</a> 
+					<a href="https://calendar.perfplanet.com/2010/">2010</a> 
+					<a href="https://calendar.perfplanet.com/2009/">2009</a> 
 				</details>
 	  	</td>
     </tr>
@@ -282,7 +282,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://perladvent.org/archives.html">2022-2000</a></br>
+					<a href="https://perladvent.org/archives.html">2022-2000</a> 
 				</details>
 	  	</td>
     </tr>
@@ -296,15 +296,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://2022.leanuxmas.com/">2022</a></br>
-					<a href="https://2021.leanuxmas.com/">2021</a></br>
-					<a href="https://2020.leanuxmas.com/">2020</a></br>
-					<a href="https://2019.leanuxmas.com/">2019</a></br>
-					<a href="https://2018.leanuxmas.com/">2018</a></br>
-					<a href="https://2017.leanuxmas.com/">2017</a></br>
-					<a href="https://2016.leanuxmas.com/">2016</a></br>
-					<a href="https://2015.leanuxmas.com/">2015</a></br>
-					<a href="https://2014.leanuxmas.com/">2014</a></br>
+					<a href="https://2022.leanuxmas.com/">2022</a> 
+					<a href="https://2021.leanuxmas.com/">2021</a> 
+					<a href="https://2020.leanuxmas.com/">2020</a> 
+					<a href="https://2019.leanuxmas.com/">2019</a> 
+					<a href="https://2018.leanuxmas.com/">2018</a> 
+					<a href="https://2017.leanuxmas.com/">2017</a> 
+					<a href="https://2016.leanuxmas.com/">2016</a> 
+					<a href="https://2015.leanuxmas.com/">2015</a> 
+					<a href="https://2014.leanuxmas.com/">2014</a> 
 				</details>
 	  	</td>
     </tr>
@@ -318,12 +318,12 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://csadvent.christmas/archive/2022">2022</a></br>
-					<a href="https://csadvent.christmas/archive/2021">2021</a></br>
-					<a href="https://csadvent.christmas/archive/2020">2020</a></br>
-					<a href="https://csadvent.christmas/archive/2019">2019</a></br>
-					<a href="https://csadvent.christmas/archive/2018">2018</a></br>
-					<a href="https://csadvent.christmas/archive/2017">2017</a></br>
+					<a href="https://csadvent.christmas/archive/2022">2022</a> 
+					<a href="https://csadvent.christmas/archive/2021">2021</a> 
+					<a href="https://csadvent.christmas/archive/2020">2020</a> 
+					<a href="https://csadvent.christmas/archive/2019">2019</a> 
+					<a href="https://csadvent.christmas/archive/2018">2018</a> 
+					<a href="https://csadvent.christmas/archive/2017">2017</a> 
 				</details>
 	  	</td>
     </tr>
@@ -337,8 +337,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://dotnet.christmas/2022/">2022</a></br>
-					<a href="https://dotnet.christmas/2021/">2021</a></br>
+					<a href="https://dotnet.christmas/2022/">2022</a> 
+					<a href="https://dotnet.christmas/2021/">2021</a> 
 				</details>
 	  	</td>
     </tr>
@@ -353,8 +353,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://golang.christmas/2022/">2022</a></br>
-					<a href="https://golang.christmas/2021/">2021</a></br>
+					<a href="https://golang.christmas/2022/">2022</a> 
+					<a href="https://golang.christmas/2021/">2021</a> 
 				</details>
 	  	</td>
     </tr>
@@ -368,15 +368,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/">2022</a></br>
-					<a href="https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/">2021</a></br>
-					<a href="https://sergeytihon.com/2020/10/22/f-advent-calendar-in-english-2020/">2020</a></br>
-					<a href="https://sergeytihon.com/2019/11/05/f-advent-calendar-in-english-2019/">2019</a></br>
-					<a href="https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/">2018</a></br>
-					<a href="https://sergeytihon.com/2017/10/22/f-advent-calendar-in-english-2017/">2017</a></br>
-					<a href="https://sergeytihon.com/2016/10/23/f-advent-calendar-in-english-2016/">2016</a></br>
-					<a href="https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/">2015</a></br>
-					<a href="https://sergeytihon.wordpress.com/2014/11/24/f-advent-calendar-in-english-2014/">2014</a></br>
+					<a href="https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/">2022</a> 
+					<a href="https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/">2021</a> 
+					<a href="https://sergeytihon.com/2020/10/22/f-advent-calendar-in-english-2020/">2020</a> 
+					<a href="https://sergeytihon.com/2019/11/05/f-advent-calendar-in-english-2019/">2019</a> 
+					<a href="https://sergeytihon.com/2018/10/22/f-advent-calendar-in-english-2018/">2018</a> 
+					<a href="https://sergeytihon.com/2017/10/22/f-advent-calendar-in-english-2017/">2017</a> 
+					<a href="https://sergeytihon.com/2016/10/23/f-advent-calendar-in-english-2016/">2016</a> 
+					<a href="https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/">2015</a> 
+					<a href="https://sergeytihon.wordpress.com/2014/11/24/f-advent-calendar-in-english-2014/">2014</a> 
 				</details>
 	  	</td>
     </tr>
