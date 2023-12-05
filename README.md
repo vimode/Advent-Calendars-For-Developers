@@ -156,10 +156,18 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<a href="https://24pullrequests.com/">24 Pull Requests</a>
 			</td>
-			<td>Make 1 contribution to an open source project everyday. <a href="https://24pullrequests.com/login">Login</a> to track your contributions.
-	</td>
+			<td>Make 1 contribution to an open source project everyday. <a href="https://24pullrequests.com/login">Login</a> to track your contributions.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/New-Advent-Calendar-for-2023-25-Days-of-Copilots/td-p/2485037">25 Days of Copilots</a>
+			</td>
+			<td>25-day series on Microsoft Copilots, with a strong focus on value-added for the Power Platform.</td>
+			<td>1st Dec</td>
+			<td>25th Dec</td>
 			<td>-</td>
 		</tr>
   </tbody>
