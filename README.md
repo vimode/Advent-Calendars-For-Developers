@@ -170,6 +170,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>25th Dec</td>
 			<td>-</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://aods.cryingpotato.com/">Advent of Distributed Systems</a>
+			</td>
+			<td>A playground to work on the series of <a href="https://fly.io/dist-sys/">distributed systems challenges by Fly.io<a/></td>
+			<td>1st Dec</td>
+			<td>25th Dec</td>
+			<td>-</td>
+		</tr>
   </tbody>
 </table>
 
