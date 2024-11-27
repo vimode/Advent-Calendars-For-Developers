@@ -1,4 +1,4 @@
-# 📅 Advent Calendars for Developers - 2023 💻
+# 📅 Advent Calendars for Developers - 2024 💻
 
 A curated list of advent calendars that will help you become a better developer.
 
@@ -29,6 +29,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://adventofcode.com/2023">2023</a>
 					<a href="https://adventofcode.com/2022">2022</a> 
 					<a href="https://adventofcode.com/2021">2021</a> 
 					<a href="https://adventofcode.com/2020">2020</a> 
@@ -62,7 +63,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<details>
 				<summary>Previous years</summary>
-				<a href="https://2021.adevntofcss.com">2021</a> 
+				<a href="https://2023.adventofcss.com/">2023</a>
+				<a href="https://2021.adevntofcss.com/">2021</a> 
 			</details>
 			</td>
 		</tr>
@@ -76,7 +78,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://2021.adevntofjs.com">2021</a> 
+					<a href="https://2023.adventofjs.com/">2023</a>
+					<a href="https://2021.adevntofjs.com/">2021</a> 
 				</details>
 			</td>
 		</tr>
@@ -103,27 +106,21 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>-</td>
 		</tr>
     <tr>
-			<td><a href="https://typehero.dev/aot-2023">Advent of TypeScript</a></td>
+			<td><a href="https://www.adventofts.com">Advent of TypeScript</a></td>
 			<td>TypeScript Challenges.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>-</td>
 		</tr>
-    <tr>
-      <td><a href="https://adventofgenai.com/">Advent of GenAI Hackathon</a></td>
-      <td>5 days of GenAI challenges – with each new challenge released daily.</td>
-      <td>5th Dec</td>
-      <td>11th Dec</td>
-      <td>-</td>
-		</tr>  
 		<tr>
-			<td><a href="https://tryhackme.com/r/christmas">Advent of Cyber 2023</a></td>
+			<td><a href="https://tryhackme.com/r/christmas">Advent of Cyber 2024</a></td>
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
         <details>
           <summary>Previous years</summary>
+	  <a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
           <a href="https://tryhackme.com/room/adventofcyber4">2022</a>
           <a href="https://tryhackme.com/room/adventofcyber3">2021</a>
           <a href="https://tryhackme.com/room/adventofcyber2">2020</a>
@@ -139,6 +136,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
         <details>
           <summary>Previous years</summary>
+	        <a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
           <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
         </details>
       </td>
@@ -159,15 +157,6 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>Make 1 contribution to an open source project everyday. <a href="https://24pullrequests.com/login">Login</a> to track your contributions.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
-			<td>-</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://powerusers.microsoft.com/t5/Webinars-and-Video-Gallery/New-Advent-Calendar-for-2023-25-Days-of-Copilots/td-p/2485037">25 Days of Copilots</a>
-			</td>
-			<td>25-day series on Microsoft Copilots, with a strong focus on value-added for the Power Platform.</td>
-			<td>1st Dec</td>
-			<td>25th Dec</td>
 			<td>-</td>
 		</tr>
 		<tr>
