@@ -42,11 +42,16 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 	  	</td>
     </tr>
     <tr>
-      <td><a href="https://blog.jetbrains.com/kotlin/2023/11/advent-of-code-2023-with-kotlin/">Advent of Code 2023 with Kotlin</a></td>
+      <td><a href="https://blog.jetbrains.com/kotlin/2024/11/advent-of-code-2024-in-kotlin/">Advent of Code 2024 with Kotlin</a></td>
       <td>Solve Advent of Code challenges using Kotlin and win prizes.</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
-      <td>-</td>
+      <td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://kotlinlang.org/docs/advent-of-code.html">2020-2023</a>
+        </details>        
+      </td>
     </tr>
     <tr>
       <td><a href="https://luna-park.app/advent">Advent of Code with NoCode</a></td>
