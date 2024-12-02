@@ -103,6 +103,28 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://adventofsql.com/">Advent of SQL</a>
+			</td>
+			<td>Learn and Practice Rust by solving daily challenges.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+				-
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.rustfinity.com/advent-of-rust">Advent of Rust</a>
+			</td>
+			<td>Sharpen your SQL skills with 24 SQL challenges. Every day, a new challenge!</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+				-
+			</td>
+		</tr>
     <tr>
 			<td><a href="https://scrimba.com/javascriptmas">Javascriptmas</a></td>
 			<td>24 JavaScript Challenges, submit your solution and/or share it on social media to enter a draw to win a Macbook, Scrimba & MDN merch, lifetime access to Scrimba and more.</td>
@@ -116,6 +138,30 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>-</td>
+		</tr>
+    <tr>
+			<td><a href="https://github.com/advent-of-craft/2024">Advent of Craft</a></td>
+			<td>Coding challenges in 7 languages. C#, Java, Kotlin, TypeScript, PHP, Scala and Python.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
+	          <a href="https://github.com/advent-of-craft/2023">2023</a>
+        </details>
+      </td>
+		</tr>
+    <tr>
+			<td><a href="https://www.mathekalender.de/wp/calendar/">Math+</a></td>
+			<td>MATH+ Advent Calendar invites you to discover the beauty and power of Math beyond the subjects covered in school.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
+	          <a href="https://www.mathekalender.de/wp/calendar/challenge-archive/">2004-2023</a>
+        </details>
+      </td>
 		</tr>
 		<tr>
 			<td><a href="https://tryhackme.com/r/christmas">Advent of Cyber 2024</a></td>
@@ -164,15 +210,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>24th Dec</td>
 			<td>-</td>
 		</tr>
-<!-- 		<tr>
-			<td>
-				<a href="https://aods.cryingpotato.com/">Advent of Distributed Systems</a>
-			</td>
-			<td>A playground to work on the series of <a href="https://fly.io/dist-sys/">distributed systems challenges by Fly.io<a/></td>
-			<td>1st Dec</td>
-			<td>25th Dec</td>
-			<td>-</td>
-		</tr> -->
+
   </tbody>
 </table>
 
