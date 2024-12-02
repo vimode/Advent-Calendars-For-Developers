@@ -104,8 +104,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			</td>
 		</tr>
     <tr>
-			<td><a href="https://scrimba.com/learn/javascriptmas">Javascriptmas</a></td>
-			<td>24 JavaScript Challenges, share your solutions on X(Twitter) to enter a draw to win a Macbook Air M2.</td>
+			<td><a href="https://scrimba.com/javascriptmas">Javascriptmas</a></td>
+			<td>24 JavaScript Challenges, submit your solution and/or share it on social media to enter a draw to win a Macbook, Scrimba & MDN merch, lifetime access to Scrimba and more.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>-</td>
@@ -133,7 +133,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
         </details>
       </td>
 		</tr>
-    <tr>
+<!--     <tr>
 			<td><a href="https://github.com/fermyon/advent-of-spin">Fermyon Advent of Spin</a></td>
 			<td>Write and deploy Spin applications every week. Spin is an open-source framework for building and running serverless applications powered by WebAssembly</td>
 			<td>1st Dec</td>
@@ -145,7 +145,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
           <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
         </details>
       </td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td>
 				<a href="https://julekalender.knowit.no/">Kodekalender</a>
@@ -164,7 +164,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>24th Dec</td>
 			<td>-</td>
 		</tr>
-		<tr>
+<!-- 		<tr>
 			<td>
 				<a href="https://aods.cryingpotato.com/">Advent of Distributed Systems</a>
 			</td>
@@ -172,7 +172,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>1st Dec</td>
 			<td>25th Dec</td>
 			<td>-</td>
-		</tr>
+		</tr> -->
   </tbody>
 </table>
 
@@ -199,6 +199,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.htmhell.dev/adventcalendar/2023/">2023</a> 
 					<a href="https://www.htmhell.dev/adventcalendar/2022/">2022</a> 
 					<a href="https://www.htmhell.dev/adventcalendar/2021/">2021</a> 
 				</details>
@@ -206,7 +207,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
 		<tr>
       <td>
-	  		<a href="https://festivetechcalendar.com/">Festive Tech Calendar 2023</a>
+	  		<a href="https://festivetechcalendar.com/">Festive Tech Calendar 2024</a>
 	  	</td>
       <td>Learn various new technologies everyday with videos from the community.</td>
       <td>1st Dec</td>
@@ -215,7 +216,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
 		<tr>
       <td>
-	  		<a href="https://www.bekk.christmas/post/2023">BekkChristmas</a>
+	  		<a href="https://www.bekk.christmas/post/2024">BekkChristmas</a>
 	  	</td>
       <td>Learn from the over 100 articles from Bekk engineers, designers, strategists, product owners and team leads.</td>
       <td>1st Dec</td>
@@ -223,6 +224,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.bekk.christmas/post/2023">2023</a> 
 					<a href="https://www.bekk.christmas/post/2022">2022</a> 
 					<a href="https://www.bekk.christmas/post/2021">2021</a> 
 					<a href="https://www.bekk.christmas/post/2020">2020</a> 
@@ -242,6 +244,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.24joursdeweb.fr/2023">2023</a> 
 					<a href="https://www.24joursdeweb.fr/2022">2022</a> 
 					<a href="https://www.24joursdeweb.fr/2021">2021</a> 
 					<a href="https://www.24joursdeweb.fr/2020">2020</a> 
@@ -258,7 +261,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>		
 		<tr>
       <td>
-	  		<a href="https://calendar.perfplanet.com/">PerfPlanet</a>
+	  		<a href="https://calendar.perfplanet.com/2024">PerfPlanet</a>
 	  	</td>
       <td>Articles related to web performance and speed.</td>
       <td>1st Dec</td>
@@ -266,6 +269,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://calendar.perfplanet.com/2023/">2023</a> 
 					<a href="https://calendar.perfplanet.com/2022/">2022</a> 
 					<a href="https://calendar.perfplanet.com/2021/">2021</a> 
 					<a href="https://calendar.perfplanet.com/2020/">2020</a> 
@@ -285,7 +289,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
 				<tr>
       <td>
-	  		<a href="https://perladvent.org/">Perl Advent Calendar</a>
+	  		<a href="https://perladvent.org/2024">Perl Advent Calendar</a>
 	  	</td>
       <td>Explore a new Perl module each day for the twenty-four days of advent, and an extra module on Christmas day</td>
       <td>1st Dec</td>
@@ -293,13 +297,36 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://perladvent.org/archives.html">2022-2000</a> 
+					<a href="https://perladvent.org/2023">2023</a> 
+					<a href="https://perladvent.org/2022">2022</a> 
+					<a href="https://perladvent.org/2021">2021</a> 
+					<a href="https://perladvent.org/2020">2020</a> 
+					<a href="https://perladvent.org/2019">2019</a> 
+					<a href="https://perladvent.org/2018">2018</a> 
+					<a href="https://perladvent.org/2017">2017</a> 
+					<a href="https://perladvent.org/2016">2016</a> 
+					<a href="https://perladvent.org/2015">2015</a> 
+					<a href="https://perladvent.org/2014">2014</a> 
+					<a href="https://perladvent.org/2013">2013</a> 
+					<a href="https://perladvent.org/2012">2012</a> 
+					<a href="https://perladvent.org/2011">2011</a> 
+					<a href="https://perladvent.org/2010">2010</a> 
+					<a href="https://perladvent.org/2009">2009</a> 
+					<a href="https://perladvent.org/2008">2008</a> 
+					<a href="https://perladvent.org/2007">2007</a> 
+					<a href="https://perladvent.org/2006">2006</a> 
+					<a href="https://perladvent.org/2005">2005</a> 
+					<a href="https://perladvent.org/2004">2004</a> 
+					<a href="https://perladvent.org/2003">2003</a> 
+					<a href="https://perladvent.org/2002">2002</a> 
+					<a href="https://perladvent.org/2001">2001</a> 
+					<a href="https://perladvent.org/2000">2000</a> 
 				</details>
 	  	</td>
     </tr>
-		<tr>
+<!-- 		<tr>
       <td>
-	  		<a href="https://2023.leanuxmas.com/">LeanUXmas</a>
+	  		<a href="https://2024.leanuxmas.com/">LeanUXmas</a>
 	  	</td>
       <td>24 articles related to Agile and LeanUX.</td>
       <td>1st Dec</td>
@@ -307,6 +334,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://2023.leanuxmas.com/">2023</a> 
 					<a href="https://2022.leanuxmas.com/">2022</a> 
 					<a href="https://2021.leanuxmas.com/">2021</a> 
 					<a href="https://2020.leanuxmas.com/">2020</a> 
@@ -318,10 +346,10 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 					<a href="https://2014.leanuxmas.com/">2014</a> 
 				</details>
 	  	</td>
-    </tr>
+    </tr> -->
 		<tr>
       <td>
-	  		<a href="https://csadvent.christmas/">C# Advent Calendar 2023</a>
+	  		<a href="https://csadvent.christmas/">C# Advent Calendar 2024</a>
 	  	</td>
       <td>Two new C# blog posts every day.</td>
       <td>1st Dec</td>
@@ -329,6 +357,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://csadvent.christmas/archive/2023">2023</a> 
 					<a href="https://csadvent.christmas/archive/2022">2022</a> 
 					<a href="https://csadvent.christmas/archive/2021">2021</a> 
 					<a href="https://csadvent.christmas/archive/2020">2020</a> 
@@ -338,7 +367,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
-		<tr>
+<!-- 		<tr>
       <td>
 	  		<a href="https://dotnet.christmas/2023/">.NET Advent Calendar 2023</a>
 	  	</td>
@@ -352,9 +381,8 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 					<a href="https://dotnet.christmas/2021/">2021</a> 
 				</details>
 	  	</td>
-    </tr>
-		<tr>
-				<tr>
+    </tr> -->
+<!-- 		<tr>
       <td>
 	  		<a href="https://golang.christmas/">Go Advent Calendar 2023</a>
 	  	</td>
@@ -368,10 +396,10 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 					<a href="https://golang.christmas/2021/">2021</a> 
 				</details>
 	  	</td>
-    </tr>
+    </tr> -->
 		<tr>
       <td>
-	  		<a href="https://sergeytihon.com/2023/10/28/f-advent-calendar-in-english-2023/">F# Advent Calendar 2023</a>
+	  		<a href="https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/">F# Advent Calendar 2024</a>
 	  	</td>
       <td>Daily blog posts related to F# stories, experiences and their unbribled passion for F#.</td>
       <td>1st Dec</td>
@@ -379,6 +407,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://sergeytihon.com/2023/10/28/f-advent-calendar-in-english-2023/">2023</a> 
 					<a href="https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/">2022</a> 
 					<a href="https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/">2021</a> 
 					<a href="https://sergeytihon.com/2020/10/22/f-advent-calendar-in-english-2020/">2020</a> 
@@ -393,7 +422,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
 		<tr>
       <td>
-	  		<a href="https://www.javaadvent.com/calendar/">Java Advent Calendar 2023</a>
+	  		<a href="https://www.javaadvent.com/calendar/">Java Advent Calendar 2024</a>
 	  	</td>
       <td>Daily blog posts covering various JVM-related topics.</td>
       <td>1st Dec</td>
@@ -405,7 +434,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
-    <tr>
+<!--     <tr>
       <td>
 	  		<a href="https://raku-advent.blog/category/2023/">Raku(Perl 6) Advent Calendar 2023</a>
 	  	</td>
@@ -420,6 +449,16 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 					<a href="https://raku-advent.blog/category/2020/">2020</a>
 					<a href="https://raku-advent.blog/category/2019/">2019</a>
 				</details>
+	  	</td>
+    </tr> -->
+    <tr>
+      <td>
+	  		<a href="https://github.com/tjdevries/advent-of-nvim">Advent of Neovim</a>
+	  	</td>
+      <td>25 Mini Lessons to get started with Neovim.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>-
 	  	</td>
     </tr>
 		</table>
