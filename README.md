@@ -437,6 +437,16 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr> -->
 		<tr>
       <td>
+	  		<a href="https://cssadventcalendar.dev/">CSS Advent Calendar 2024</a>
+	  	</td>
+      <td>Highlighting a new CSS feature or property</td>
+      <td>1st Dec</td>
+      <td>24th Dec</td>
+      <td>
+	  	</td>
+    </tr>
+		<tr>
+      <td>
 	  		<a href="https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/">F# Advent Calendar 2024</a>
 	  	</td>
       <td>Daily blog posts related to F# stories, experiences and their unbribled passion for F#.</td>
@@ -472,9 +482,9 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
-<!--     <tr>
+    <tr>
       <td>
-	  		<a href="https://raku-advent.blog/category/2023/">Raku(Perl 6) Advent Calendar 2023</a>
+	  		<a href="https://raku-advent.blog/2024/12/">Raku(Perl 6) Advent Calendar 2023</a>
 	  	</td>
       <td>One article on Raku per day, until Christmas.</td>
       <td>1st Dec</td>
@@ -482,13 +492,14 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://raku-advent.blog/category/2022/">2022</a>
-					<a href="https://raku-advent.blog/category/2021/">2021</a>
-					<a href="https://raku-advent.blog/category/2020/">2020</a>
-					<a href="https://raku-advent.blog/category/2019/">2019</a>
+					<a href="https://raku-advent.blog/2023/12/">2023</a>
+					<a href="https://raku-advent.blog/2022/12/">2022</a>
+					<a href="https://raku-advent.blog/2021/12/">2021</a>
+					<a href="https://raku-advent.blog/2020/12/">2020</a>
+					<a href="https://raku-advent.blog/2019/12/">2019</a>
 				</details>
 	  	</td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
 	  		<a href="https://github.com/tjdevries/advent-of-nvim">Advent of Neovim</a>
@@ -498,5 +509,74 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>25th Dec</td>
       <td>-
 	  	</td>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://adventar.org/calendars/9957">Accessibility Advent Calendar 2024
+</a>
+	  	</td>
+      <td>A Japanese advent calendar for various accessibility, including web accessibility.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+      <details>
+        <summary>Previous years</summary>
+        <a href="https://adventar.org/calendars/9957">2013-2023</a>
+      </details>
+	  	</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://forum.selfhtml.org/advent/2024">SelfHTML Advent Calendar 2024</a>
+	  	</td>
+      <td>Tips and Tricks for Web, submitted and curated by the community members.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+      <details>
+        <summary>Previous years</summary>
+        <a href="https://forum.selfhtml.org/advent/2023">2023</a>
+        <a href="https://forum.selfhtml.org/advent/2022">2022</a>
+        <a href="https://forum.selfhtml.org/advent/2021">2021</a>
+        <a href="https://forum.selfhtml.org/advent/2020">2020</a>
+        <a href="https://forum.selfhtml.org/advent/2019">2019</a>
+      </details>
+	  	</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://24days.in/umbraco-cms/2024/">24 Days in Umbraco</a>
+	  	</td>
+      <td>Articles dedicated to Umbraco CMS</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+      <details>
+        <summary>Previous years</summary>
+        <a href="https://24days.in/umbraco-cms/">2012-2023</a>
+      </details>
+	  	</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://indieweb.org/2024-12-indieweb-gift-calendar">2024 IndieWeb Gift Calendar</a>
+	  	</td>
+      <td>Tips and Articles to improve IndieWeb Experience</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>--</td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
+	  	</td>
+      <td>24 tips & tricks that offer you new insights and creative solutions for Joomla</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>--</td>
     </tr>
 		</table>
