@@ -421,6 +421,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
 		<tr>
       <td>
+	  		<a href="https://adventjs.itch.io/adventjs-2024/">Advent.js 2024</a>
+	  	</td>
+      <td>Advent.js is a collaborative art project by many developers, each making one little interactive javascript thingie published each day before Christmas.</td>
+      <td>1st Dec</td>
+      <td>24th Dec</td>
+      <td>-</td>
+    </tr>
+		<tr>
+      <td>
 	  		<a href="https://svelte.dev/blog/advent-of-svelte/">Advent of Svelte 2024</a>
 	  	</td>
       <td>A new feature in Svelte or SvelteKit or an improvement to the website will be released each day.</td>
