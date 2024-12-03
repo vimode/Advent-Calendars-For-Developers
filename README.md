@@ -60,6 +60,13 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>25th Dec</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><a href="https://blog.adacore.com/announcing-advent-of-ada-2024-coding-for-a-cause">Advent of Ada 2024</a></td>
+      <td>Solve Advent of Code using the Ada programming language, AdaCore will donate $10 to the Ada Developers Academy, up to a total of $5,000</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>-</td>
+    </tr>
 		<tr>
 			<td><a href="https://adventofcss.com/">Advent of CSS</a></td>
 			<td>24 CSS Challenges, each challenge includes a Figma file, a style guide, a brief and steps to get you started.</td>
@@ -107,7 +114,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<a href="https://adventofsql.com/">Advent of SQL</a>
 			</td>
-			<td>Learn and Practice Rust by solving daily challenges.</td>
+      <td>Sharpen your SQL skills with 24 SQL challenges. Every day, a new challenge!</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
@@ -118,7 +125,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
 				<a href="https://www.rustfinity.com/advent-of-rust">Advent of Rust</a>
 			</td>
-			<td>Sharpen your SQL skills with 24 SQL challenges. Every day, a new challenge!</td>
+   		<td>Learn and Practice Rust by solving daily challenges.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
@@ -178,6 +185,13 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
           <a href="https://tryhackme.com/room/25daysofchristmas">2019</a>
         </details>
       </td>
+		</tr>
+		<tr>
+			<td><a href="https://haystack.deepset.ai/advent-of-haystack/">Advent of Haystack</a></td>
+			<td>Solve 10 challenges around Generative AI use cases while learning about using Haystack to build advanced pipelines and intelligent agents with LLMs to win prizes.</td>
+			<td>1st Dec</td>
+			<td>31st Dec</td>
+			<td>-</td>
 		</tr>
 <!--     <tr>
 			<td><a href="https://github.com/fermyon/advent-of-spin">Fermyon Advent of Spin</a></td>
@@ -405,6 +419,20 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 				</details>
 	  	</td>
     </tr>
+		<tr>
+      <td>
+	  		<a href="https://svelte.dev/blog/advent-of-svelte/">Advent of Svelte 2024</a>
+	  	</td>
+      <td>A new feature in Svelte or SvelteKit or an improvement to the website will be released each day.</td>
+      <td>1st Dec</td>
+      <td>24th Dec</td>
+      <td>
+				<details>
+					<summary>Previous years</summary>
+					<a href="https://advent.sveltesociety.dev/2023/">2023 Daily Svelte Challenges</a> 
+				</details>
+	  	</td>
+    </tr>
 <!-- 		<tr>
       <td>
 	  		<a href="https://dotnet.christmas/2023/">.NET Advent Calendar 2023</a>
@@ -512,8 +540,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
     <tr>
       <td>
-	  		<a href="https://adventar.org/calendars/9957">Accessibility Advent Calendar 2024
-</a>
+	  		<a href="https://adventar.org/calendars/9957">Accessibility Advent Calendar 2024</a>
 	  	</td>
       <td>A Japanese advent calendar for various accessibility, including web accessibility.</td>
       <td>1st Dec</td>
@@ -524,7 +551,6 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
         <a href="https://adventar.org/calendars/9957">2013-2023</a>
       </details>
 	  	</td>
-    </tr>
     </tr>
     <tr>
       <td>
@@ -544,7 +570,6 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       </details>
 	  	</td>
     </tr>
-    </tr>
     <tr>
       <td>
 	  		<a href="https://24days.in/umbraco-cms/2024/">24 Days in Umbraco</a>
@@ -562,13 +587,21 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
     <tr>
       <td>
+	  		<a href="https://eazybi.com/accounts/1000/dashboards/32219-christmas">eazyBI Advent Calendar</a>
+	  	</td>
+      <td>A short tips & tricks video from the eazyBI team everyday.</td>
+      <td>1st Dec</td>
+      <td>24th Dec</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
 	  		<a href="https://indieweb.org/2024-12-indieweb-gift-calendar">2024 IndieWeb Gift Calendar</a>
 	  	</td>
       <td>Tips and Articles to improve IndieWeb Experience</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
-      <td>--</td>
-    </tr>
+      <td>-</td>
     </tr>
     <tr>
       <td>
@@ -577,6 +610,6 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
       <td>24 tips & tricks that offer you new insights and creative solutions for Joomla</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
-      <td>--</td>
+      <td>-</td>
     </tr>
 		</table>
