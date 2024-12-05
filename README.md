@@ -605,6 +605,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
     </tr>
     <tr>
       <td>
+	  		<a href="https://ch-mibex-happy-holidays.herokuapp.com/">Mibex Software Advent Calendar 2024</a>
+	  	</td>
+      <td>Tips & Tricks, Blog posts, video demos and gifts from the team at Mibex Software.</td>
+      <td>1st Dec</td>
+      <td>24th Dec</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>
 	  		<a href="https://indieweb.org/2024-12-indieweb-gift-calendar">2024 IndieWeb Gift Calendar</a>
 	  	</td>
       <td>Tips and Articles to improve IndieWeb Experience</td>
