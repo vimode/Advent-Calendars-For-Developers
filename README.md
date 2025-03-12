@@ -224,6 +224,15 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>24th Dec</td>
 			<td>-</td>
 		</tr>
+    <tr>
+    <td>
+      <a href="https://i18n-puzzles.com/">Internationali­zation Puzzles</a>
+    </td>
+    <td>Internationalization(i18n) puzzles - This includes foreign characters, dates and currencies, paper sizes, time zones, daylight savings time, and all the other little things that may be different from country to country.</td>
+    <td>7th March</td>
+    <td>26th March</td>
+    <td>-</td>
+  </tr>
 
   </tbody>
 </table>
