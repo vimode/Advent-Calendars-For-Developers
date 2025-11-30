@@ -1,12 +1,13 @@
-# 📅 Advent Calendars for Developers - 2024 💻
+# 📅 Advent Calendars for Developers - 2025 💻
 
-A curated list of advent calendars that will help you become a better developer.
+A curated list of Advent calendars to help you become a better developer.
 
-Some Advent Calendar events are just good'ol coding challenges and some are articles related to web technologies, languages, UI/UX, Agile, etc
+- Some calendars feature classic coding challenges.
+- Others provide articles on web technologies, programming languages, UI/UX, Agile, and more.
 
-I wasn't sure how to categories these so its just two categories that make the most sense to me. But all suggestions are welcome!
+I wasn't sure how to categorize them, so I grouped them into two broad sections that seemed most logical. Suggestions are welcome!
 
-Feel free to make a Pull Request to add other Advent Calendars that would help web developers.
+Feel free to submit a pull request to add additional Advent calendars that would benefit developers.
 
 ## Challenges
 
@@ -22,13 +23,14 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://adventofcode.com/2023">Advent of Code</a></td>
+      <td><a href="https://adventofcode.com/2025">Advent of Code</a></td>
       <td>Programming Puzzles for variety skill sets and skill levels that can be solved in any programming language you like.</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://adventofcode.com/2024">2024</a>
 					<a href="https://adventofcode.com/2023">2023</a>
 					<a href="https://adventofcode.com/2022">2022</a> 
 					<a href="https://adventofcode.com/2021">2021</a> 
@@ -42,14 +44,14 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 	  	</td>
     </tr>
     <tr>
-      <td><a href="https://blog.jetbrains.com/kotlin/2024/11/advent-of-code-2024-in-kotlin/">Advent of Code 2024 with Kotlin</a></td>
+      <td><a href="https://blog.jetbrains.com/kotlin/2025/11/advent-of-code-in-kotlin-2025/">Advent of Code 2025 with Kotlin</a></td>
       <td>Solve Advent of Code challenges using Kotlin and win prizes.</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
       <td>
         <details>
           <summary>Previous years</summary>
-          <a href="https://kotlinlang.org/docs/advent-of-code.html">2020-2023</a>
+          <a href="https://kotlinlang.org/docs/advent-of-code.html">2020-2024</a>
         </details>        
       </td>
     </tr>
@@ -178,7 +180,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
         <details>
           <summary>Previous years</summary>
-	  <a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
+	  	  <a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
           <a href="https://tryhackme.com/room/adventofcyber4">2022</a>
           <a href="https://tryhackme.com/room/adventofcyber3">2021</a>
           <a href="https://tryhackme.com/room/adventofcyber2">2020</a>
@@ -201,7 +203,7 @@ Feel free to make a Pull Request to add other Advent Calendars that would help w
 			<td>
         <details>
           <summary>Previous years</summary>
-	        <a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
+	      <a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
           <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
         </details>
       </td>
