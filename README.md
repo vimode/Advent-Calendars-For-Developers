@@ -26,7 +26,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td><a href="https://adventofcode.com/2025">Advent of Code</a></td>
       <td>Programming Puzzles for variety skill sets and skill levels that can be solved in any programming language you like.</td>
       <td>1st Dec</td>
-      <td>25th Dec</td>
+      <td>12th Dec</td>
       <td>
 				<details>
 					<summary>Previous years</summary>
