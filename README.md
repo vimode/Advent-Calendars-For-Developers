@@ -685,9 +685,9 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </details>
 	  	</td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
-	  		<a href="https://24days.in/umbraco-cms/2024/">24 Days in Umbraco</a>
+	  		<a href="https://24days.in/umbraco-cms/2025/">24 Days in Umbraco</a>
 	  	</td>
       <td>Articles dedicated to Umbraco CMS</td>
       <td>1st Dec</td>
@@ -695,11 +695,11 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
       <details>
         <summary>Previous years</summary>
-        <a href="https://24days.in/umbraco-cms/">2012-2023</a>
+        <a href="https://24days.in/umbraco-cms/">2012-2024</a>
       </details>
 	  	</td>
     </tr>
-    </tr> -->
+    </tr>
     <tr>
       <td>
 	  		<a href="https://eazybi.com/accounts/1000/dashboards/32219-christmas">eazyBI Advent Calendar</a>
