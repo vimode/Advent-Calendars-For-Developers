@@ -56,6 +56,27 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
     </tr>
     <tr>
+	<tr>
+      <td><a href="https://sadservers.com/advent">Advent of SysAdmin 2025</a></td>
+      <td>The Advent of Sysadmin is a 12-day Advent calendar of Linux and DevOps challenges of different difficulties</td>
+      <td>1st Dec</td>
+      <td>12th Dec</td>
+      <td>-</td>
+    </tr>
+	<tr>
+      <td><a href="https://www.technolution.com/career/advent-of-code-2025/">Advent of Puzzles</a></td>
+      <td>Solve puzzles to reach the next puzzle</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://www.technolution.com/career/advent-of-code-2024/">2024</a>
+        </details>        
+      </td>
+    </tr>
+    <tr>
+    <tr>
       <td><a href="https://luna-park.app/advent">Advent of Code with NoCode</a></td>
       <td>Solve Advent of Code challenges using NoCode - visual scripting on this playground.</td>
       <td>1st Dec</td>
