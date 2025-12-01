@@ -209,19 +209,31 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
 		</tr>
 		<tr>
-			<td><a href="https://tryhackme.com/room/adventofcyberpreptrack">Advent of Cyber 2024</a></td>
+			<td><a href="https://tryhackme.com/room/adventofcyberpreptrack">Advent of Cyber 2025</a></td>
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
         <details>
           <summary>Previous years</summary>
-		  <a href="https://tryhackme.com/r/room/adventofcyber2024">2024</a>
-	  	  <a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
+				  <a href="https://tryhackme.com/r/room/adventofcyber2024">2024</a>
+	  	  	<a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
           <a href="https://tryhackme.com/room/adventofcyber4">2022</a>
           <a href="https://tryhackme.com/room/adventofcyber3">2021</a>
           <a href="https://tryhackme.com/room/adventofcyber2">2020</a>
           <a href="https://tryhackme.com/room/25daysofchristmas">2019</a>
+        </details>
+      </td>
+		</tr>
+		<tr>
+			<td><a href="https://www.sans.org/cyber-ranges/holiday-hack-challenge">SANS Holiday Hack Challenge 2025</a></td>
+			<td>High‑quality, hands‑on cybersecurity challenges for all skill levels. Play to learn, practice, and compete for exciting prizes.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
+				  <a href="https://www.holidayhackchallenge.com/past-challenges/">2011-2024</a>
         </details>
       </td>
 		</tr>
@@ -538,16 +550,17 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 	  	</td>
     </tr>
-		<!-- <tr>
+	<tr>
       <td>
-	  		<a href="https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/">F# Advent Calendar 2024</a>
+	  		<a href="https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/">F# Advent Calendar 2025</a>
 	  	</td>
       <td>Daily blog posts related to F# stories, experiences and their unbribled passion for F#.</td>
       <td>1st Dec</td>
-      <td>1st Jan</td>
+      <td>24th Dec</td>
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/">2024</a> 
 					<a href="https://sergeytihon.com/2023/10/28/f-advent-calendar-in-english-2023/">2023</a> 
 					<a href="https://sergeytihon.com/2022/10/28/f-advent-calendar-in-english-2022/">2022</a> 
 					<a href="https://sergeytihon.com/2021/10/18/f-advent-calendar-2021/">2021</a> 
@@ -560,7 +573,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 					<a href="https://sergeytihon.wordpress.com/2014/11/24/f-advent-calendar-in-english-2014/">2014</a> 
 				</details>
 	  	</td>
-    </tr> -->
+    </tr>
 		<tr>
       <td>
 	  		<a href="https://www.javaadvent.com/calendar/">JVM Programming Advent Calendar 2025</a>
