@@ -233,6 +233,18 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
+				  <a href="https://www.debugdecember.com/challenges/2024">2024</a>
+        </details>
+      </td>
+		</tr>
+		<tr>
+			<td><a href="https://www.debugdecember.com/intro/2025">Debug December</a></td>
+			<td>A series of 24 coding challenges where you solve bugs! One challenge unlocks each day. 5 raffles to win swag and a chance to win a PlayStation 5.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
 				  <a href="https://www.holidayhackchallenge.com/past-challenges/">2011-2024</a>
         </details>
       </td>
@@ -285,7 +297,13 @@ Feel free to submit a pull request to add additional Advent calendars that would
     <td>26th March</td>
     <td>-</td>
   </tr> -->
-
+		<tr>
+			<td><a href="https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h">Maker Advent Calendar - The 12 Projects of Codemas</a></td>
+			<td>12 exciting days of fun projects including new components to play with every day. The first day of the calendar includes a Raspberry Pi Pico H, Micro-USB cable and breadboard to get you set up</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>--</td>
+		</tr>
   </tbody>
 </table>
 
