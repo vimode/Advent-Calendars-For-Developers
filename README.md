@@ -88,7 +88,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
     </tr>
     <tr>
-<!-- <tr>
+		<tr>
       <td><a href="https://luna-park.app/advent">Advent of Code with NoCode</a></td>
       <td>Solve Advent of Code challenges using NoCode - visual scripting on this playground.</td>
       <td>1st Dec</td>
@@ -96,13 +96,18 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://blog.adacore.com/announcing-advent-of-ada-2024-coding-for-a-cause">Advent of Ada 2024</a></td>
-      <td>Solve Advent of Code using the Ada programming language, AdaCore will donate $10 to the Ada Developers Academy, up to a total of $5,000</td>
+      <td><a href="https://www.adacore.com/blog/announcing-advent-of-ada-spark-2025-coding-for-a-cause">Advent of Ada/SPARK 2025</a></td>
+      <td>Solve Advent of Code using the Ada programming language, AdaCore will donate $10 to the Ada Developers Academy, AdaCore will donate $20 if the solution is implemented in SPARK with at least proof of absence of run-time errors up to a total of $5,000</td>
       <td>1st Dec</td>
-      <td>25th Dec</td>
-      <td>-</td>
+      <td>12th Dec</td>
+      <td>
+				<details>
+				<summary>Previous years</summary>
+				<a href="https://blog.adacore.com/announcing-advent-of-ada-2024-coding-for-a-cause">2024</a>	
+			</details>
+			</td>
     </tr>
-		<tr>
+		<!-- <tr>
 			<td><a href="https://adventofcss.com/">Advent of CSS</a></td>
 			<td>24 CSS Challenges, each challenge includes a Figma file, a style guide, a brief and steps to get you started.</td>
 			<td>1st Dec</td>
@@ -146,6 +151,15 @@ Feel free to submit a pull request to add additional Advent calendars that would
 					<a href="https://2021.adventjs.dev/">2021</a> 
 				</details>
 			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.sqlcalendar.com">SQL Advent Calendar 2025</a>
+			</td>
+			<td>24 days of SQL challenges to level up your skills this holiday season.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>-</td>
 		</tr>
 		<!-- <tr>
 			<td>
@@ -191,8 +205,8 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
-			<a href="https://github.com/advent-of-craft/2024">2024</a>
-		    <a href="https://github.com/advent-of-craft/2023">2023</a>
+					<a href="https://github.com/advent-of-craft/2024">2024</a>
+		    	<a href="https://github.com/advent-of-craft/2023">2023</a>
         </details>
       </td>
 		</tr>
