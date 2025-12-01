@@ -44,6 +44,18 @@ Feel free to submit a pull request to add additional Advent calendars that would
 	  	</td>
     </tr>
     <tr>
+      <td><a href="https://adventcalendar.dev/en">2025 Advent Programming Challenges Calendar</a></td>
+      <td>Solve a new programming challenge every day until Christmas.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://2024.adventcalendar.dev/">2024</a>
+        </details>        
+      </td>
+    </tr>
+	  <tr>
       <td><a href="https://blog.jetbrains.com/kotlin/2025/11/advent-of-code-in-kotlin-2025/">Advent of Code 2025 with Kotlin</a></td>
       <td>Solve Advent of Code challenges using Kotlin and win prizes.</td>
       <td>1st Dec</td>
