@@ -76,7 +76,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
     </tr>
     <tr>
-    <tr>
+<!-- <tr>
       <td><a href="https://luna-park.app/advent">Advent of Code with NoCode</a></td>
       <td>Solve Advent of Code challenges using NoCode - visual scripting on this playground.</td>
       <td>1st Dec</td>
@@ -117,7 +117,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 					<a href="https://2021.adevntofjs.com/">2021</a> 
 				</details>
 			</td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td>
 				<a href="https://adventjs.dev/">AdventJS</a>
@@ -128,12 +128,14 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://2024.adventjs.dev/">2024</a>
+					<a href="https://2023.adventjs.dev/">2023</a>
 					<a href="https://2022.adventjs.dev/">2022</a> 
 					<a href="https://2021.adventjs.dev/">2021</a> 
 				</details>
 			</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>
 				<a href="https://adventofsql.com/">Advent of SQL</a>
 			</td>
@@ -168,16 +170,17 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>-</td>
-		</tr>
+		</tr> -->
     <tr>
-			<td><a href="https://github.com/advent-of-craft/2024">Advent of Craft</a></td>
-			<td>Coding challenges in 7 languages. C#, Java, Kotlin, TypeScript, PHP, Scala and Python.</td>
+			<td><a href="https://github.com/advent-of-craft/2025">Advent of Craft</a></td>
+			<td>This edition reuses the 2023/2024 challenges as memories, adds new Key Activations, and focuses on reflection, experimentatin and community discussions.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
         <details>
           <summary>Previous years</summary>
-	          <a href="https://github.com/advent-of-craft/2023">2023</a>
+			<a href="https://github.com/advent-of-craft/2024">2024</a>
+		    <a href="https://github.com/advent-of-craft/2023">2023</a>
         </details>
       </td>
 		</tr>
@@ -194,13 +197,14 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
 		</tr>
 		<tr>
-			<td><a href="https://tryhackme.com/r/christmas">Advent of Cyber 2024</a></td>
+			<td><a href="https://tryhackme.com/room/adventofcyberpreptrack">Advent of Cyber 2024</a></td>
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
         <details>
           <summary>Previous years</summary>
+		  <a href="https://tryhackme.com/r/room/adventofcyber2024">2024</a>
 	  	  <a href="https://tryhackme.com/r/room/adventofcyber2023">2023</a>
           <a href="https://tryhackme.com/room/adventofcyber4">2022</a>
           <a href="https://tryhackme.com/room/adventofcyber3">2021</a>
@@ -209,14 +213,14 @@ Feel free to submit a pull request to add additional Advent calendars that would
         </details>
       </td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td><a href="https://haystack.deepset.ai/advent-of-haystack/">Advent of Haystack</a></td>
 			<td>Solve 10 challenges around Generative AI use cases while learning about using Haystack to build advanced pipelines and intelligent agents with LLMs to win prizes.</td>
 			<td>1st Dec</td>
 			<td>31st Dec</td>
 			<td>-</td>
-		</tr>
-<!--     <tr>
+		</tr> -->
+       <tr>
 			<td><a href="https://github.com/fermyon/advent-of-spin">Fermyon Advent of Spin</a></td>
 			<td>Write and deploy Spin applications every week. Spin is an open-source framework for building and running serverless applications powered by WebAssembly</td>
 			<td>1st Dec</td>
@@ -224,11 +228,12 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
+		  <a href="https://github.com/fermyon/advent-of-spin/tree/main/2024">2024</a>
 	      <a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
           <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
         </details>
       </td>
-		</tr> -->
+		</tr>
 		<tr>
 			<td>
 				<a href="https://julekalender.knowit.no/">Kodekalender</a>
@@ -247,7 +252,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>24th Dec</td>
 			<td>-</td>
 		</tr>
-    <tr>
+    <!-- <tr>
     <td>
       <a href="https://i18n-puzzles.com/">Internationali­zation Puzzles</a>
     </td>
@@ -255,7 +260,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     <td>7th March</td>
     <td>26th March</td>
     <td>-</td>
-  </tr>
+  </tr> -->
 
   </tbody>
 </table>
@@ -283,6 +288,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.htmhell.dev/adventcalendar/2024/">2024</a> 
 					<a href="https://www.htmhell.dev/adventcalendar/2023/">2023</a> 
 					<a href="https://www.htmhell.dev/adventcalendar/2022/">2022</a> 
 					<a href="https://www.htmhell.dev/adventcalendar/2021/">2021</a> 
@@ -291,7 +297,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr>
 		<tr>
       <td>
-	  		<a href="https://festivetechcalendar.com/">Festive Tech Calendar 2024</a>
+	  		<a href="https://festivetechcalendar.com/">Festive Tech Calendar 2025</a>
 	  	</td>
       <td>Learn various new technologies everyday with videos from the community.</td>
       <td>1st Dec</td>
@@ -300,7 +306,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr>
 		<tr>
       <td>
-	  		<a href="https://www.bekk.christmas/post/2024">BekkChristmas</a>
+	  		<a href="https://www.bekk.christmas/post/2025">BekkChristmas</a>
 	  	</td>
       <td>Learn from the over 100 articles from Bekk engineers, designers, strategists, product owners and team leads.</td>
       <td>1st Dec</td>
@@ -308,6 +314,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.bekk.christmas/post/2024">2024</a> 
 					<a href="https://www.bekk.christmas/post/2023">2023</a> 
 					<a href="https://www.bekk.christmas/post/2022">2022</a> 
 					<a href="https://www.bekk.christmas/post/2021">2021</a> 
@@ -328,6 +335,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://www.24joursdeweb.fr/2024">2024</a> 
 					<a href="https://www.24joursdeweb.fr/2023">2023</a> 
 					<a href="https://www.24joursdeweb.fr/2022">2022</a> 
 					<a href="https://www.24joursdeweb.fr/2021">2021</a> 
@@ -345,7 +353,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr>		
 		<tr>
       <td>
-	  		<a href="https://calendar.perfplanet.com/2024">PerfPlanet</a>
+	  		<a href="https://calendar.perfplanet.com/2025">PerfPlanet</a>
 	  	</td>
       <td>Articles related to web performance and speed.</td>
       <td>1st Dec</td>
@@ -353,6 +361,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://calendar.perfplanet.com/2024/">2024</a> 
 					<a href="https://calendar.perfplanet.com/2023/">2023</a> 
 					<a href="https://calendar.perfplanet.com/2022/">2022</a> 
 					<a href="https://calendar.perfplanet.com/2021/">2021</a> 
@@ -373,7 +382,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr>
 				<tr>
       <td>
-	  		<a href="https://perladvent.org/2024">Perl Advent Calendar</a>
+	  		<a href="https://perladvent.org/2025">Perl Advent Calendar</a>
 	  	</td>
       <td>Explore a new Perl module each day for the twenty-four days of advent, and an extra module on Christmas day</td>
       <td>1st Dec</td>
@@ -381,6 +390,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://perladvent.org/2024">2024</a> 
 					<a href="https://perladvent.org/2023">2023</a> 
 					<a href="https://perladvent.org/2022">2022</a> 
 					<a href="https://perladvent.org/2021">2021</a> 
@@ -433,7 +443,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr> -->
 		<tr>
       <td>
-	  		<a href="https://csadvent.christmas/">C# Advent Calendar 2024</a>
+	  		<a href="https://csadvent.christmas/">C# Advent Calendar 2025</a>
 	  	</td>
       <td>Two new C# blog posts every day.</td>
       <td>1st Dec</td>
@@ -441,6 +451,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://csadvent.christmas/archive/2024">2024</a> 
 					<a href="https://csadvent.christmas/archive/2023">2023</a> 
 					<a href="https://csadvent.christmas/archive/2022">2022</a> 
 					<a href="https://csadvent.christmas/archive/2021">2021</a> 
@@ -451,7 +462,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 	  	</td>
     </tr>
-		<tr>
+		<!-- <tr>
       <td>
 	  		<a href="https://adventjs.itch.io/adventjs-2024/">Advent.js 2024</a>
 	  	</td>
@@ -459,17 +470,18 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>-</td>
-    </tr>
+    </tr> -->
 		<tr>
       <td>
-	  		<a href="https://svelte.dev/blog/advent-of-svelte/">Advent of Svelte 2024</a>
+	  		<a href="https://advent.sveltesociety.dev/2025">Advent of Svelte 2025</a>
 	  	</td>
-      <td>A new feature in Svelte or SvelteKit or an improvement to the website will be released each day.</td>
+      <td>24 days of Svelte knowledge, tips, and insights to unwrap.</td>
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://advent.sveltesociety.dev/2024/">2024 Daily Svelte Challenges</a> 
 					<a href="https://advent.sveltesociety.dev/2023/">2023 Daily Svelte Challenges</a> 
 				</details>
 	  	</td>
@@ -506,7 +518,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr> -->
 		<tr>
       <td>
-	  		<a href="https://cssadventcalendar.dev/">CSS Advent Calendar 2024</a>
+	  		<a href="https://cssadventcalendar.dev/">CSS Advent Calendar 2025</a>
 	  	</td>
       <td>Highlighting a new CSS feature or property</td>
       <td>1st Dec</td>
@@ -514,7 +526,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 	  	</td>
     </tr>
-		<tr>
+		<!-- <tr>
       <td>
 	  		<a href="https://sergeytihon.com/2024/10/26/f-advent-calendar-in-english-2024/">F# Advent Calendar 2024</a>
 	  	</td>
@@ -536,10 +548,10 @@ Feel free to submit a pull request to add additional Advent calendars that would
 					<a href="https://sergeytihon.wordpress.com/2014/11/24/f-advent-calendar-in-english-2014/">2014</a> 
 				</details>
 	  	</td>
-    </tr>
+    </tr> -->
 		<tr>
       <td>
-	  		<a href="https://www.javaadvent.com/calendar/">Java Advent Calendar 2024</a>
+	  		<a href="https://www.javaadvent.com/calendar/">JVM Programming Advent Calendar 2025</a>
 	  	</td>
       <td>Daily blog posts covering various JVM-related topics.</td>
       <td>1st Dec</td>
@@ -547,13 +559,13 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
-					<a href="https://www.javaadvent.com/archive">2022-2012</a>
+					<a href="https://www.javaadvent.com/archive">2012-2024</a>
 				</details>
 	  	</td>
     </tr>
     <tr>
       <td>
-	  		<a href="https://raku-advent.blog/2024/12/">Raku(Perl 6) Advent Calendar 2023</a>
+	  		<a href="https://raku-advent.blog/2025/12">Raku(Perl 6) Advent Calendar 2025</a>
 	  	</td>
       <td>One article on Raku per day, until Christmas.</td>
       <td>1st Dec</td>
@@ -561,6 +573,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 				<details>
 					<summary>Previous years</summary>
+					<a href="https://raku-advent.blog/2024/12/">2024</a>
 					<a href="https://raku-advent.blog/2023/12/">2023</a>
 					<a href="https://raku-advent.blog/2022/12/">2022</a>
 					<a href="https://raku-advent.blog/2021/12/">2021</a>
@@ -569,7 +582,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 	  	</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
 	  		<a href="https://github.com/tjdevries/advent-of-nvim">Advent of Neovim</a>
 	  	</td>
@@ -578,10 +591,10 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>25th Dec</td>
       <td>-
 	  	</td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
-	  		<a href="https://adventar.org/calendars/9957">Accessibility Advent Calendar 2024</a>
+	  		<a href="https://adventar.org/calendars/11364">Accessibility Advent Calendar 2025</a>
 	  	</td>
       <td>A Japanese advent calendar for various accessibility, including web accessibility.</td>
       <td>1st Dec</td>
@@ -589,13 +602,13 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
       <details>
         <summary>Previous years</summary>
-        <a href="https://adventar.org/calendars/9957">2013-2023</a>
+        <a href="https://adventar.org/calendars/9957">2013-2024</a>
       </details>
 	  	</td>
     </tr>
     <tr>
       <td>
-	  		<a href="https://forum.selfhtml.org/advent/2024">SelfHTML Advent Calendar 2024</a>
+	  		<a href="https://forum.selfhtml.org/advent/2025">SelfHTML Advent Calendar 2025</a>
 	  	</td>
       <td>Tips and Tricks for Web, submitted and curated by the community members.</td>
       <td>1st Dec</td>
@@ -603,6 +616,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
       <details>
         <summary>Previous years</summary>
+        <a href="https://forum.selfhtml.org/advent/2024">2024</a>
         <a href="https://forum.selfhtml.org/advent/2023">2023</a>
         <a href="https://forum.selfhtml.org/advent/2022">2022</a>
         <a href="https://forum.selfhtml.org/advent/2021">2021</a>
@@ -611,7 +625,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </details>
 	  	</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
 	  		<a href="https://24days.in/umbraco-cms/2024/">24 Days in Umbraco</a>
 	  	</td>
@@ -625,17 +639,17 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </details>
 	  	</td>
     </tr>
-    </tr>
+    </tr> -->
     <tr>
       <td>
 	  		<a href="https://eazybi.com/accounts/1000/dashboards/32219-christmas">eazyBI Advent Calendar</a>
 	  	</td>
-      <td>A short tips & tricks video from the eazyBI team everyday.</td>
+      <td>Discover a helpful tip from the eazyBI team everyday.</td>
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>-</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
 	  		<a href="https://ch-mibex-happy-holidays.herokuapp.com/">Mibex Software Advent Calendar 2024</a>
 	  	</td>
@@ -643,17 +657,29 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>-</td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
-	  		<a href="https://indieweb.org/2024-12-indieweb-gift-calendar">2024 IndieWeb Gift Calendar</a>
+	  		<a href="https://indieweb.org/2025-12-indieweb-gift-calendar">2025 IndieWeb Gift Calendar</a>
 	  	</td>
       <td>Tips and Articles to improve IndieWeb Experience</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
-      <td>-</td>
+      <td>
+	  <details>
+        <summary>Previous years</summary>
+        <a href="https://indieweb.org/2024-12-indieweb-gift-calendar">2024</a>
+        <a href="https://indieweb.org/2023-12-indieweb-gift-calendar">2023</a>
+        <a href="https://indieweb.org/2022-12-indieweb-gift-calendar">2022</a>
+        <a href="https://indieweb.org/2021-12-indieweb-gift-calendar">2021</a>
+        <a href="https://indieweb.org/2020-12-indieweb-gift-calendar">2020</a>
+        <a href="https://indieweb.org/2019-12-indieweb-gift-calendar">2019</a>
+        <a href="https://indieweb.org/2018-12-indieweb-calendar">2018</a>
+        <a href="https://indieweb.org/2017-12-indieweb-calendar">2017</a>
+      </details>
+	  </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
 	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
 	  	</td>
@@ -661,5 +687,5 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>1st Dec</td>
       <td>25th Dec</td>
       <td>-</td>
-    </tr>
+    </tr> -->
 		</table>
