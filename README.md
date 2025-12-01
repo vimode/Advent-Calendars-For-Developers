@@ -249,6 +249,23 @@ Feel free to submit a pull request to add additional Advent calendars that would
         </details>
       </td>
 		</tr>
+		<tr>
+			<td><a href="https://theweeklychallenge.org/blog/advent-calendar-2025/">Weekly Challenge Advent Calendar 2025</a></td>
+			<td>Daily coding challenges from the archive of weeklychallenges.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+        <details>
+          <summary>Previous years</summary>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2024">2024</a>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2023">2023</a>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2022">2022</a>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2021">2021</a>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2020">2020</a>
+				  <a href="https://theweeklychallenge.org/blog/advent-calendar-2019">2019</a>
+        </details>
+      </td>
+		</tr>
 		<!-- <tr>
 			<td><a href="https://haystack.deepset.ai/advent-of-haystack/">Advent of Haystack</a></td>
 			<td>Solve 10 challenges around Generative AI use cases while learning about using Haystack to build advanced pipelines and intelligent agents with LLMs to win prizes.</td>
@@ -264,8 +281,8 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
-		  <a href="https://github.com/fermyon/advent-of-spin/tree/main/2024">2024</a>
-	      <a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
+		  		<a href="https://github.com/fermyon/advent-of-spin/tree/main/2024">2024</a>
+	      	<a href="https://github.com/fermyon/advent-of-spin/tree/main/2023">2023</a>
           <a href="https://github.com/fermyon/advent-of-spin/tree/main/2022">2022</a>
         </details>
       </td>
