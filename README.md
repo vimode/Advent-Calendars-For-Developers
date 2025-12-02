@@ -788,7 +788,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>25th Dec</td>
       <td>--</td>
     </tr>
-	    <tr>
+	  <tr>
       <td>
 	  		<a href="https://www.freelock.com/advent/2025">Advent 2025 - 24 days of accessibility</a>
 	  	</td>
@@ -802,6 +802,15 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 			</td>
     </tr>
+		<tr>
+			<td>
+				<a href="https://xania.org/202511/advent-of-compiler-optimisation">Advent of Compiler Optimisations 2025</a>
+			</td>
+			<td>One blog post and video each day, each detailing a fun and interesting C or C++ optimisation that your compiler can do.</td>
+			<td>1st Dec</td>
+			<td>25th Dec</td>
+			<td>--</td>
+	    </tr>
     <!-- <tr>
       <td>
 	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
