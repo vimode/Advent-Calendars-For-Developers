@@ -59,11 +59,23 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td><a href="https://blog.jetbrains.com/kotlin/2025/11/advent-of-code-in-kotlin-2025/">Advent of Code 2025 with Kotlin</a></td>
       <td>Solve Advent of Code challenges using Kotlin and win prizes.</td>
       <td>1st Dec</td>
-      <td>25th Dec</td>
+      <td>12th Dec</td>
       <td>
         <details>
           <summary>Previous years</summary>
           <a href="https://kotlinlang.org/docs/advent-of-code.html">2020-2024</a>
+        </details>        
+      </td>
+    </tr>
+		<tr>
+      <td><a href="https://blog.jetbrains.com/rust/2025/11/28/solving-advent-of-code-in-rust-with-just-enough-ai/">Advent of Code 2025 in Rust</a></td>
+      <td>Solve Advent of Code challenges using Rust and win prizes.</td>
+      <td>1st Dec</td>
+      <td>12th Dec</td>
+      <td>
+        <details>
+          <summary>Previous years</summary>
+          <a href="https://blog.jetbrains.com/rust/2024/11/29/solve-advent-of-code-2024-puzzles-in-rust-and-win-prizes/">2024</a>
         </details>        
       </td>
     </tr>
