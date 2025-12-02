@@ -235,7 +235,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </td>
 		</tr>
 		<tr>
-			<td><a href="https://tryhackme.com/room/adventofcyberpreptrack">Advent of Cyber 2025</a></td>
+			<td><a href="https://tryhackme.com/adventofcyber25">Advent of Cyber 2025</a></td>
 			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
@@ -259,7 +259,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
-				  <a href="https://www.debugdecember.com/challenges/2024">2024</a>
+					<a href="https://www.holidayhackchallenge.com/past-challenges/">2011-2024</a>				  
         </details>
       </td>
 		</tr>
@@ -271,9 +271,23 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>
         <details>
           <summary>Previous years</summary>
-				  <a href="https://www.holidayhackchallenge.com/past-challenges/">2011-2024</a>
+				  <a href="https://www.debugdecember.com/challenges/2024">2024</a>
         </details>
       </td>
+		</tr>
+		<tr>
+			<td><a href="https://hex-advent.starlabs.sg/">Hex Advent 2025</a></td>
+			<td>A Christmas Special CTF by women, for women.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<td><a href="https://challenge.bellingcat.com/">bell¿ngcat Open Source Challenge</a></td>
+			<td>Test your open source research skills with these challenges.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>--</td>
 		</tr>
 		<tr>
 			<td><a href="https://theweeklychallenge.org/blog/advent-calendar-2025/">Weekly Challenge Advent Calendar 2025</a></td>
