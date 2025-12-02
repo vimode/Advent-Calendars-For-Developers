@@ -779,15 +779,15 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </details>
 	  </td>
     </tr>
-	    <tr>
-      <td>
-	  		<a href="https://www.manuelsanchezdev.com/advent-2025">Advent of A11Y</a>
-	  	</td>
-      <td>Make your web content more accessible with quick to read and easy to apply tips.</td>
-      <td>1st Dec</td>
-      <td>25th Dec</td>
-      <td>--</td>
-    </tr>
+		<tr>
+			<td>
+				<a href="https://www.manuelsanchezdev.com/advent-2025">Advent of A11Y</a>
+			</td>
+			<td>Make your web content more accessible with quick to read and easy to apply tips.</td>
+			<td>1st Dec</td>
+			<td>25th Dec</td>
+			<td>--</td>
+		</tr>
 	  <tr>
       <td>
 	  		<a href="https://www.freelock.com/advent/2025">Advent 2025 - 24 days of accessibility</a>
@@ -810,7 +810,16 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>1st Dec</td>
 			<td>25th Dec</td>
 			<td>--</td>
-	    </tr>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://advent-of-ai-security.com/">Advent of AI Security 2025</a>
+			</td>
+			<td>Learn about OWSAP top 10 risks, vulnerabilities and mitigations for developing and securing generative AI and LLM applications.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>--</td>
+		</tr>
     <!-- <tr>
       <td>
 	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
