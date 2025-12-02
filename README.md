@@ -779,6 +779,29 @@ Feel free to submit a pull request to add additional Advent calendars that would
       </details>
 	  </td>
     </tr>
+	    <tr>
+      <td>
+	  		<a href="https://www.manuelsanchezdev.com/advent-2025">Advent of A11Y</a>
+	  	</td>
+      <td>Make your web content more accessible with quick to read and easy to apply tips.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>--</td>
+    </tr>
+	    <tr>
+      <td>
+	  		<a href="https://www.freelock.com/advent/2025">Advent 2025 - 24 days of accessibility</a>
+	  	</td>
+      <td>Learn about Web Content Accessibility Guidelines (WCAG) accessibility standards each day.</td>
+      <td>1st Dec</td>
+      <td>25th Dec</td>
+      <td>
+				<details>
+					<summary>Previous years</summary>
+					<a href="https://www.freelock.com/advent/2024">2024</a>
+				</details>
+			</td>
+    </tr>
     <!-- <tr>
       <td>
 	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
