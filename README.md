@@ -355,6 +355,13 @@ Feel free to submit a pull request to add additional Advent calendars that would
     <td>-</td>
   </tr> -->
 		<tr>
+			<td><a href="https://adventof.design/">Advent of Design</a></td>
+			<td>UX/UI design event comprising of a series of fun design challenges. Participate, submit and win prizes.</td>
+			<td>1st Dec</td>
+			<td>18th Dec</td>
+			<td>--</td>
+		</tr>
+		<tr>
 			<td><a href="https://thepihut.com/products/maker-advent-calendar-includes-raspberry-pi-pico-h">Maker Advent Calendar - The 12 Projects of Codemas</a></td>
 			<td>12 exciting days of fun projects including new components to play with every day. The first day of the calendar includes a Raspberry Pi Pico H, Micro-USB cable and breadboard to get you set up</td>
 			<td>1st Dec</td>
@@ -816,6 +823,15 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				<a href="https://advent-of-ai-security.com/">Advent of AI Security 2025</a>
 			</td>
 			<td>Learn about OWSAP top 10 risks, vulnerabilities and mitigations for developing and securing generative AI and LLM applications.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://adventofagents.com/">Advent of Agents</a>
+			</td>
+			<td>25 days. Zero to Production-Ready AI Agents on Google Cloud.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>--</td>
