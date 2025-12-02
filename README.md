@@ -24,7 +24,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
   <tbody>
     <tr>
       <td><a href="https://adventofcode.com/2025">Advent of Code</a></td>
-      <td>Programming Puzzles for variety skill sets and skill levels that can be solved in any programming language you like.</td>
+      <td>Programming Puzzles for various skill sets and skill levels that can be solved in any programming language you like.</td>
       <td>1st Dec</td>
       <td>12th Dec</td>
       <td>
@@ -89,7 +89,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
     </tr>
 	<tr>
       <td><a href="https://www.technolution.com/career/advent-of-code-2025/">Advent of Puzzles</a></td>
-      <td>Solve puzzles to reach the next puzzle</td>
+      <td>Solve puzzles to reach the next puzzle.</td>
       <td>1st Dec</td>
       <td>25th Dec</td>
       <td>
@@ -211,7 +211,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 		</tr> -->
     <tr>
 			<td><a href="https://github.com/advent-of-craft/2025">Advent of Craft</a></td>
-			<td>This edition reuses the 2023/2024 challenges as memories, adds new Key Activations, and focuses on reflection, experimentatin and community discussions.</td>
+			<td>This edition reuses the 2023/2024 challenges as memories, adds new Key Activations, and focuses on reflection, experimentation and community discussions.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
@@ -236,7 +236,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 		</tr>
 		<tr>
 			<td><a href="https://tryhackme.com/adventofcyber25">Advent of Cyber 2025</a></td>
-			<td>Tackle interactive tasks across various areas of cyber – from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
+			<td>Tackle interactive tasks across various areas of cybersecurity from hacking actual machines to defending digital realms. Prizes and certificates on completion.</td>
 			<td>1st Dec</td>
 			<td>24th Dec</td>
 			<td>
@@ -381,7 +381,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 	  		<a href="https://www.htmhell.dev/adventcalendar/">HTMLHell</a>
 	  	</td>
-      <td>24 authors from all around the world share their knowledege about accessbility, performance, usability and security.</td>
+      <td>24 authors from all around the world share their knowledge about accessibility, performance, usability and security.</td>
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>
@@ -629,7 +629,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
       <td>
 	  		<a href="https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/">F# Advent Calendar 2025</a>
 	  	</td>
-      <td>Daily blog posts related to F# stories, experiences and their unbribled passion for F#.</td>
+      <td>Daily blog posts related to F# stories, experiences and their unbridled passion for F#.</td>
       <td>1st Dec</td>
       <td>24th Dec</td>
       <td>
