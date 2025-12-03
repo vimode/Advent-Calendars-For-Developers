@@ -836,6 +836,22 @@ Feel free to submit a pull request to add additional Advent calendars that would
 			<td>24th Dec</td>
 			<td>--</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://lostcarpark.com/advent-calendar-2025">2025 Drupal Advent Calendar</a>
+			</td>
+			<td>Everyday watch one of the best Drupal talks of 2025.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+				<details>
+					<summary>Previous years</summary>
+					<a href="https://lostcarpark.com/advent-calendar-2024">2024</a>
+					<a href="https://lostcarpark.com/advent-calendar-2023">2023</a>
+					<a href="https://lostcarpark.com/advent-calendar-2022">2022</a>						
+				</details>
+			</td>
+		</tr>
     <!-- <tr>
       <td>
 	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
