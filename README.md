@@ -166,7 +166,7 @@ Feel free to submit a pull request to add additional Advent calendars that would
 		</tr>
 		<tr>
 			<td>
-				<a href="https://www.sqlcalendar.com">SQL Advent Calendar 2025</a>
+				<a href="https://www.interviewmaster.ai/advent">SQL Advent Calendar 2025</a>
 			</td>
 			<td>24 days of SQL challenges to level up your skills this holiday season.</td>
 			<td>1st Dec</td>
