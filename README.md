@@ -524,29 +524,6 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 	  	</td>
     </tr>
-<!-- 		<tr>
-      <td>
-	  		<a href="https://2024.leanuxmas.com/">LeanUXmas</a>
-	  	</td>
-      <td>24 articles related to Agile and LeanUX.</td>
-      <td>1st Dec</td>
-      <td>24th Dec</td>
-      <td>
-				<details>
-					<summary>Previous years</summary>
-					<a href="https://2023.leanuxmas.com/">2023</a> 
-					<a href="https://2022.leanuxmas.com/">2022</a> 
-					<a href="https://2021.leanuxmas.com/">2021</a> 
-					<a href="https://2020.leanuxmas.com/">2020</a> 
-					<a href="https://2019.leanuxmas.com/">2019</a> 
-					<a href="https://2018.leanuxmas.com/">2018</a> 
-					<a href="https://2017.leanuxmas.com/">2017</a> 
-					<a href="https://2016.leanuxmas.com/">2016</a> 
-					<a href="https://2015.leanuxmas.com/">2015</a> 
-					<a href="https://2014.leanuxmas.com/">2014</a> 
-				</details>
-	  	</td>
-    </tr> -->
 		<tr>
       <td>
 	  		<a href="https://csadvent.christmas/">C# Advent Calendar 2025</a>
@@ -568,15 +545,6 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 	  	</td>
     </tr>
-		<!-- <tr>
-      <td>
-	  		<a href="https://adventjs.itch.io/adventjs-2024/">Advent.js 2024</a>
-	  	</td>
-      <td>Advent.js is a collaborative art project by many developers, each making one little interactive javascript thingie published each day before Christmas.</td>
-      <td>1st Dec</td>
-      <td>24th Dec</td>
-      <td>-</td>
-    </tr> -->
 		<tr>
       <td>
 	  		<a href="https://advent.sveltesociety.dev/2025">Advent of Svelte 2025</a>
@@ -592,36 +560,16 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 	  	</td>
     </tr>
-<!-- 		<tr>
+		<tr>
       <td>
-	  		<a href="https://dotnet.christmas/2023/">.NET Advent Calendar 2023</a>
+	  		<a href="https://laravel.com/advent">Laravel OSS Advent Calendar 2025</a>
 	  	</td>
-      <td>Daily blog posts related to .NET</td>
+      <td>A new video about a Laravel related open source project every day.</td>
       <td>1st Dec</td>
-      <td>24th Dec</td>
-      <td>
-				<details>
-					<summary>Previous years</summary>
-					<a href="https://dotnet.christmas/2022/">2022</a> 
-					<a href="https://dotnet.christmas/2021/">2021</a> 
-				</details>
+      <td>25th Dec</td>
+      <td>--</td>
 	  	</td>
-    </tr> -->
-<!-- 		<tr>
-      <td>
-	  		<a href="https://golang.christmas/">Go Advent Calendar 2023</a>
-	  	</td>
-      <td>Daily blog posts related to Go</td>
-      <td>1st Dec</td>
-      <td>24th Dec</td>
-      <td>
-				<details>
-					<summary>Previous years</summary>
-					<a href="https://golang.christmas/2022/">2022</a> 
-					<a href="https://golang.christmas/2021/">2021</a> 
-				</details>
-	  	</td>
-    </tr> -->
+    </tr>
 		<tr>
       <td>
 	  		<a href="https://cssadventcalendar.dev/">CSS Advent Calendar 2025</a>
