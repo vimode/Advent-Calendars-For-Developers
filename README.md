@@ -814,13 +814,22 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 			</td>
 		</tr>
-    <!-- <tr>
-      <td>
-	  		<a href="https://www.joomla.de/wissen/joomla-tipps-im-advent/2024">Joomla Advent Calendar 2024</a>
-	  	</td>
-      <td>24 tips & tricks that offer you new insights and creative solutions for Joomla</td>
-      <td>1st Dec</td>
-      <td>25th Dec</td>
-      <td>-</td>
-    </tr> -->
+		</tr>
+		<tr>
+			<td>
+				<a href="https://scalacenter.github.io/scala-advent-of-code/2025/">Scala Advent of Code 2025</a>
+			</td>
+			<td>Learn Scala 3 by tackling solving Advent of Code, daily tutorials for each puzzle while introducing a Scala feature.</td>
+			<td>1st Dec</td>
+			<td>24th Dec</td>
+			<td>
+				<details>
+					<summary>Previous years</summary>
+					<a href="https://scalacenter.github.io/scala-advent-of-code/2024/">2024</a>				
+					<a href="https://scalacenter.github.io/scala-advent-of-code/2023/">2023</a>				
+					<a href="https://scalacenter.github.io/scala-advent-of-code/2022/">2022</a>				
+					<a href="https://scalacenter.github.io/scala-advent-of-code/2021/">2021</a>				
+				</details>
+			</td>
+		</tr>
 		</table>
