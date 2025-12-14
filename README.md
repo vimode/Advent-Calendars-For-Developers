@@ -832,4 +832,13 @@ Feel free to submit a pull request to add additional Advent calendars that would
 				</details>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://shipmas-advent.com/">25 Days of Free Developer Tools</a>
+			</td>
+			<td>Every day from December 1st to 25th, we unlock a new micro-tool to help you code faster, debug smarter, and ship with joy.</td>
+			<td>1st Dec</td>
+			<td>25th Dec</td>
+			<td>--</td>
+		</tr>
 		</table>
